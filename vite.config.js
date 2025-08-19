@@ -15,7 +15,7 @@ export default defineConfig({
   // Para GitHub Pages, use o nome do seu repositório, por exemplo: 
   // base: '/nome-do-seu-repositorio/'
   // Para Netlify, geralmente '/' é suficiente, ou pode ser omitido se for a raiz
-  base: '/', 
+  base: '/MeuCalendario/', 
 })
 
 
